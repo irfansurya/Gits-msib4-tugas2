@@ -1,5 +1,5 @@
 Nama : Irfan Surya
-Universitas Dian Nuswantoro
+Kampus : Universitas Dian Nuswantoro
 
 
 Projek Portofolio me
