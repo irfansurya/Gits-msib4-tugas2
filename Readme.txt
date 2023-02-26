@@ -1,6 +1,5 @@
-Thanks for downloading this template!
+Nama : Irfan Surya
+Universitas Dian Nuswantoro
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+
+Projek Portofolio me
